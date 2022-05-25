@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Raoul Normand, an Assistant Professor of Mathematics at New York University.
+- 👀 I’m interested in Machine Learning.
+- 👍 Proficient with Python, sklearn, pandas, numpy
+- 🌱 Currently learning tensorflow, keras
